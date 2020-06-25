@@ -11,7 +11,7 @@ Here it uses Tensorflow Object detection API to detect sign boards
  
  There you can find two notebooks
  
-    traffic sign board detection.ipynb it is all about how to train the model and
+    Traffic_sign_board_detection.ipynb it is all about how to train the model and
    
-    testing.ipynb is to perform testing on video file
+    Test_on_video.ipynb is to perform testing on video file
    
